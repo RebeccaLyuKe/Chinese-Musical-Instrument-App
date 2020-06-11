@@ -8,10 +8,7 @@ Instrument: dulcimer, duxianqin （乐器：扬琴、独弦琴）
 
 该文件夹包含：
 1) Unity工程源文件 -- 文件夹 ChineseMusicalInstrument-UnityProject；
-2) 完整工程导出的UnityPackage -- ChineseMusicalInstrument.unitypackage；
-3) 用于iOS应用构建的Xcode工程项目 -- 文件夹 Xcode Project(iOS Build)；
-4) 安卓应用apk -- duxianqinApp_android.apk, yangqinApp_android.apk.
-5) 应用说明书 -- 扬琴与独弦琴App说明书.pdf
+2) 应用说明书 -- 扬琴与独弦琴App说明书.pdf
 
 # -环境配置-
 开发环境：Unity 2018.3.19f1
@@ -19,9 +16,7 @@ Instrument: dulcimer, duxianqin （乐器：扬琴、独弦琴）
 应用安装平台：iOS & Android
 
 # -查看Unity工程-
-如果您需要打开查看或者编辑工程，可以通过两种方式：
-1) （推荐）新建一个Unity工程，将文件夹中的ChineseMusicalInstrument.unitypackage文件导入（直接将文件拖入Hierarchy，或者选择菜单中的Assets-Import Package-Custom Package导入）
-2) （不推荐）直接在Unity中打开工程（File-Open Project，随后添加工程定位到文件夹ChineseMusicalInstrument-UnityProject），请使用Unity 2018打开，不要使用2017或2019版本，可能会出现错误。
+在Unity中打开工程（File-Open Project-添加，随后定位到文件夹ChineseMusicalInstrument-UnityProject），请使用Unity 2018打开，不要使用2017或2019版本，可能会出现错误。
 
 # -应用安装方法-
 Android平台：直接将两个apk导入移动设备并自行安装即可
