@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 0866ca9e08a334abda9e422e38cf1c6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSourceTeam1: {fileID: 6551393396645729531, guid: ac116b72de02f4e0f998793b85b247f1,
+      type: 3}
+  - audioSourceTeam2: {fileID: 3290702173550846815, guid: d14ddf60978fc4f3490a7b1231060a3d,
+      type: 3}
+  - audioSourceTeam3: {fileID: 2136084634801823015, guid: 5a3b7e82771814f1d9af1c50988c358b,
+      type: 3}
+  - audioSourceTeam4: {fileID: 1465504086951713384, guid: b53753da104db4f6192258bd99b52939,
+      type: 3}
+  - audioSourceTeam5: {fileID: 7818238817105896337, guid: eb5d118d565d542669a438c135b6db59,
+      type: 3}
+  - audioSourceTeam6: {fileID: 3450188605405251130, guid: b0a74c6db89be49ca84c10736c6ec453,
+      type: 3}
+  - audioSourceTeam7: {fileID: 8209681432876802795, guid: 8fafcdb20a07242868bbb6bbc08ee64e,
+      type: 3}
+  - audioSourceTeam8: {fileID: 3575275814608630335, guid: a0e96ef397b364aa6a2a1ef20a258801,
+      type: 3}
+  - audioSourceTeam9: {fileID: 7015208453925429129, guid: 0ee1a9df2835b4f4090fdd1c1241d0f8,
+      type: 3}
+  - audioSourceTeam10: {fileID: 2878200525959204746, guid: 7b9f65a16fc3d4b5f999ad46d5f73b66,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
