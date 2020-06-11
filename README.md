@@ -9,6 +9,7 @@ Instrument: dulcimer, duxianqin （乐器：扬琴、独弦琴）
 该仓库内包含：
 1) Unity工程源文件 -- 文件夹 ChineseMusicalInstrument-UnityProject；
 2) 应用说明书 -- 扬琴与独弦琴App说明书.pdf
+
 此外，在release中已上传两款App的安卓平台应用apk，可供下载。
 
 # -环境配置-
